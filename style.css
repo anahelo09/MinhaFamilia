@@ -1,20 +1,20 @@
 body {
-    background-color: #ffe6f2; /* Rosa claro */
-    color: #333;
+    background: linear-gradient(to bottom, #ffffff, #e6ccff); /* Degrade branco e lilás */
+    color: #000000; /* Cor preta para texto */
     font-family: Arial, sans-serif;
-    text-align: center;
+    text-align: center; /* Texto centralizado */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #ff66b3; /* Rosa médio */
-    color: #fff;
+    background-color: #e6ccff; /* Lilás */
+    color: #333333; /* Cinza escuro */
     padding: 20px 0;
 }
 
 header h1 {
-    font-size: 36px;
+    font-size: 30px;
     margin: 0;
 }
 
@@ -28,31 +28,35 @@ section.principal {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
     margin-bottom: 20px;
+    text-align: center; /* Texto centralizado */
 }
 
 h2 {
-    color: #ff66b3; /* Rosa médio */
-    font-size: 24px;
-    margin-top: 0;
+    color: #666666; /* Cinza médio */
+    font-size: 25px;
+    text-align: left; /* Texto à esquerda */
 }
 
 h3 {
-    color: #ff3399; /* Rosa escuro */
+    color: #666666; /* Cinza médio */
     font-size: 20px;
-    margin-top: 20px;
 }
 
 p {
-    font-size: 18px;
+    text-align: left; /* Texto justificado */
+    font-size: 20px;
     line-height: 1.6;
 }
 
-footer {
-    background-color: #ff66b3; /* Rosa médio */
-    color: #fff;
-    padding: 10px 0;
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Centraliza imagens */
+    margin: 0 auto; /* Centraliza imagens */
 }
 
-footer p {
-    margin: 0;
+a {
+    color: #0000ff; /* Azul */
+    text-decoration: none; /* Sem sublinhado */
+    font-size: 25px;
 }
