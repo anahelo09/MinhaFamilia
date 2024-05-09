@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom, #ffffff, #e6ccff); /* Degrade branco e lilás */
+    background: linear-gradient(to bottom, #ffffff, #d8b4ff); /* Degrade branco e roxo meio claro */
     color: #000000; /* Cor preta para texto */
     font-family: Arial, sans-serif;
     text-align: center; /* Texto centralizado */
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #e6ccff; /* Lilás */
+    background-color: #d8b4ff; /* Roxo meio claro */
     color: #333333; /* Cinza escuro */
     padding: 20px 0;
 }
@@ -47,7 +47,7 @@ p {
 }
 
 footer {
-    background-color: #e6ccff; /* Lilás */
+    background-color: #d8b4ff; /* Roxo meio claro */
     color: #333333; /* Cinza escuro */
     padding: 10px 0;
 }
