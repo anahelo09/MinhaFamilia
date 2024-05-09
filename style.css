@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom, #ffffff, #9932cc); /* Degrade branco e roxo meio claro */
+    background: linear-gradient(to bottom, #ffffff, #9932cc); /* Degrade branco para darkorchid */
     color: #000000; /* Cor preta para texto */
     font-family: Arial, sans-serif;
     text-align: center; /* Texto centralizado */
@@ -8,14 +8,9 @@ body {
 }
 
 header {
-    background-color: #d8b4ff; /* Roxo meio claro */
-    color: #333333; /* Cinza escuro */
+    background: linear-gradient(to bottom, #ffffff, #9932cc); /* Degrade branco para darkorchid */
+    color: #ffffff; /* Cor branca para texto */
     padding: 20px 0;
-}
-
-header h1 {
-    font-size: 30px;
-    margin: 0;
 }
 
 main {
@@ -42,8 +37,8 @@ p {
 }
 
 footer {
-    background-color: #d8b4ff; /* Roxo meio claro */
-    color: #333333; /* Cinza escuro */
+    background: linear-gradient(to bottom, #ffffff, #9932cc); /* Degrade branco para darkorchid */
+    color: #ffffff; /* Cor branca para texto */
     padding: 10px 0;
 }
 
