@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(to bottom, #ffffff, #e6ccff); /* Degrade branco e lilás */
+    color: #000000; /* Cor preta para texto */
+    font-family: Arial, sans-serif;
+    text-align: center; /* Texto centralizado */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e6ccff; /* Lilás */
+    color: #333333; /* Cinza escuro */
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 30px;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section.principal {
+    background-color: #ffffff; /* Branco */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: left; /* Texto à esquerda */
+}
+
+h2 {
+    color: #666666; /* Cinza médio */
+    font-size: 25px;
+}
+
+h3 {
+    color: #000000; /* Preto */
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #e6ccff; /* Lilás */
+    color: #333333; /* Cinza escuro */
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+a {
+    color: #0000ff; /* Azul */
+    text-decoration: none; /* Sem sublinhado */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinhar ao passar o mouse */
+}
